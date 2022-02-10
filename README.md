@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Janani
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning front end development in Spotknack mission 2021
+- 👩‍🎓 I am doing my UG in Computer Science at MCET.
+- 👀 I’m interested in designing websites.
+- 🌱 I’m currently learning front end development in Spotknack mission 2021.
+- 📫 You can reach me on LinkedIn and Twitter.
 
 
 
