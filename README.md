@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janani
-- 👩‍🎓 I am doing my UG in Computer Science at MCET.
+- 👩‍🎓 I have pursued my UG in Computer Science at Dr.MCET.
 - 👀 I’m interested in designing websites.
 - 🌱 I’m currently learning front end development in Spotknack mission 2021.
 - 📫 You can reach me on LinkedIn and Twitter.
